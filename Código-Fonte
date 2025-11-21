@@ -1,0 +1,11 @@
+/ (repo root)
+├─ app.py
+├─ models.py
+├─ storage.py
+├─ auth.py
+├─ requirements.txt
+├─ data/
+│   ├─ users.json
+│   └─ books.json
+├─ README.md
+└─ .gitignore
